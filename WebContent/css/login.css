@@ -1,0 +1,60 @@
+@charset "UTF-8";
+#wrap_all{
+	height: 400px;
+}
+#wrap  table{
+	margin: 0 auto;
+	text-align: left;
+	width: 800px;
+	font-size: 12px;
+}
+#wrap  table tr{
+	height: 40px;
+}
+#wrap  table th{
+	text-align: left;
+	width: 100px;
+}
+#wrap  table th .info{
+	font-size: 14px;
+	height: 50px;
+}
+#wrap  table b{
+	color: red;
+}
+#wrap  table td{
+	text-align: left;
+	padding: 5px;
+}
+#wrap  table td {
+	width: 130px;
+	margin-right: 10px;
+}
+#wrap  table td .required{
+	text-align: right;
+}
+
+#wrap .subtn .loginbtn{
+	width: 160px;
+	height: 40px;
+	background-color: black;
+	color: white;
+	border: 0px;
+	font-size: 15px;
+	border-radius: 15px;
+}
+#wrap .subtn .resetbtn{
+	width: 160px;
+	height: 40px;
+	background-color: black;
+	color: white;
+	border: 1px solid lightgray;
+	font-size: 15px;
+	border-radius: 15px;
+}
+h1{text-align: center;
+}
+*{margin: 0 auto;
+}
+.subtn{text-align: center;
+}
